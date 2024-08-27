@@ -134,7 +134,7 @@
                 "color": "rgb(29.00115,19.99965,10.0011)"
               }
             ],
-            "text": "果米设计器",
+            "text": "海报设计器",
             "fontFamily": "AlibabaPuHuiTi-Bold",
             "fontSize": 100,
             "italic": false,
@@ -149,7 +149,7 @@
             "paraIndent": 0,
             "textAlign": "left",
             "verticalAlign": "middle",
-            "name": "果米设计器",
+            "name": "海报设计器",
             "opacity": 1,
             "visible": true,
             "zIndex": 5,

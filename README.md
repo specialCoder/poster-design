@@ -1,5 +1,5 @@
 <div align="center"> 
-<h2>Gzm Design</h2>
+<h2>Poster Design</h2>
 
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 [![Arco Design](https://img.shields.io/badge/arco--design-^2.53.3-brightgreen)](https://arco.design/vue)
@@ -12,7 +12,7 @@
 
 ## 简介
 
-Gzm Design是一个免费开源的海报设计器。使用了最新的`vue3`,`vite4`,`TypeScript`等主流技术开发，开箱即用。
+Poster Design是一个海报设计器。使用了最新的`vue3`,`vite4`,`TypeScript`等主流技术开发，开箱即用。
 
 ## 预览
 
@@ -177,17 +177,8 @@ Request。
 </a>
 
 
-### 友情赞助商
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 150px)); gap: 25px;padding: 20px 20px 0 20px">
-  <div>
-    <a href="https://pro.kuaitu.cc/" target="_blank">
-      <img src="http://gzm-design-doc.guozimi.cn/sponsors/kt.png" alt="Sponsor 1 Logo" width="150" height="auto">
-    </a>
-  </div>
-</div>
+<!-- ### 友情赞助商 -->
 
 ## 开源协议
 
-- gzm-design 遵循 [MIT 协议](./LICENSE)
-- Copyright © 2023-present [guozimi.cn](http://guozimi.cn)
+- poster-design 遵循 [MIT 协议](./LICENSE)

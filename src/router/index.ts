@@ -8,14 +8,15 @@ import Home from '@/views/Home/home.vue'
 const router = createRouter({
   history: createWebHashHistory(),
   routes: [
+    // {
+    //   path: '/',
+    //   name: 'Home',
+    //   component: Home,
+    //   // component: Editor,
+    // },
     {
+      // path: '/editor',
       path: '/',
-      name: 'Home',
-      component: Home,
-      // component: Editor,
-    },
-    {
-      path: '/editor',
       name: 'Editor',
       component: Editor,
     },
