@@ -1,6 +1,10 @@
 {
   "list": [
     {
+      "id":2,
+      "cover": "https://static.eatmango.cn/123k.png"
+    },
+    {
       "id": 2,
       "cover": "http://oss.guozimi.cn/gzm-design/introduction/cover1.jpg",
       "title": "设计器简介",

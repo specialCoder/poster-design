@@ -6,8 +6,6 @@
 [![Vue](https://img.shields.io/badge/vue-^3.3.10-brightgreen)](https://vuejs.org)
 [![Vite](https://img.shields.io/badge/vite-^4.5.1-brightgreen)](https://vitejs.dev)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/LvHuaiSheng/gzm-design?logo=github)](https://github.com/LvHuaiSheng/gzm-design)
-[![Gitee Repo stars](https://gitee.com/sourcenet/gzm-design/badge/star.svg?theme=dark)](https://gitee.com/sourcenet/gzm-design)
 </div>
 
 ## 简介
@@ -16,13 +14,7 @@ Poster Design是一个海报设计器。使用了最新的`vue3`,`vite4`,`TypeSc
 
 ## 预览
 
-- 地址1：<a href="http://gzm-design.guozimi.cn/" target="_blank">gzm-design</a>
-- 备用地址：<a href="http://gzm-design.sourcenet.cc/" target="_blank">gzm-design</a>
-
-![image](http://oss.guozimi.cn/gzm-design/cover1.png)
-
-## 文档
-- <a href="http://gzm-design-doc.guozimi.cn/" target="_blank">文档预览</a>
+- 地址：<a href="https://poster-design-theta.vercel.app/" target="_blank">gzm-design</a>
 
 ## 功能/计划
 
@@ -86,16 +78,6 @@ Tips: 🕙筹划中 🔲筹备中 🚧进行中 ✅已完成
 
 ## 安装使用
 
-- 获取项目代码
-
-```bash
-# GitHub
-git clone https://github.com/LvHuaiSheng/gzm-design.git
-
-# Gitee
-git clone https://gitee.com/sourcenet/gzm-design.git
-```
-
 - 安装依赖
 
 ```bash
@@ -124,17 +106,12 @@ pnpm build
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
 
-<img src="http://oss.guozimi.cn/sfk.png" width="450px">
 
 ## 微信交流群
 
-<img src="http://oss.guozimi.cn/gzm-design/wx-group3.png" width="150px">
-<img src="http://oss.guozimi.cn/wxhy.png" width="150px">
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/LvHuaiSheng/gzm-design/issues/new/choose) 或者提交一个 Pull
-Request。
 
 **Pull Request:**
 
@@ -163,21 +140,12 @@ Request。
     - `wip` 开发中
 
 ## 致谢
-
 特别感谢以下项目和贡献者：
-
+- <a ref="https://github.com/leaferjs/ui" target="_blank">@leafer/ui</a>基于 Leafer 开发的一套绚丽多彩的 UI 绘图、交互框架，作为 LeaferJS 的表现层，可结合 AI 绘图、生成界面，表现力丰富、性能强劲。
 - <a href="https://github.com/liumingye/fabric" target="_blank">liumingye/fabric</a> 一款基于fabirc的高性能编辑器。
 - <a href="https://github.com/palxiao/poster-design" target="_blank">poster-design</a> 一款基于dom的在线海报图片设计器。
 - <a href="https://github.com/nihaojob/vue-fabric-editor" target="_blank">vue-fabric-editor</a> 一款基于fabric.js和Vue的图片编辑器。
 - <a href="https://github.com/wordshub/free-font" target="_blank">free-font</a> 可商用免费字体收录汇总
-
-
-<a href="https://github.com/LvHuaiSheng/gzm-design/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LvHuaiSheng/gzm-design" />
-</a>
-
-
-<!-- ### 友情赞助商 -->
 
 ## 开源协议
 

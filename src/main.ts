@@ -1,24 +1,26 @@
 import {createApp} from 'vue'
+import { inject } from '@vercel/analytics';
+import 'virtual:uno.css'
+import 'virtual:svg-icons-register'
 
-import App from './App.vue'
 import router from '@/router'
 import pinia from '@/store'
 import ArcoVue from '@arco-design/web-vue';
 import '@arco-design/web-vue/dist/arco.css';
-// CSS
 import '@unocss/reset/tailwind-compat.css'
-import 'virtual:uno.css'
-import 'virtual:svg-icons-register'
+import '@/utils/request';
+import ArcoVueIcon from '@arco-design/web-vue/es/icon';
+import {createCore} from '@/views/Editor/core'
+import { myPlugin } from '@/views/testPlugin'
+
+import App from './App.vue'
+import IconFontPlugin from './plugins/iconFontPlugin';
 import './style.less'
 import './mock';
-import '@/utils/request';
-// 额外引入图标库
-import ArcoVueIcon from '@arco-design/web-vue/es/icon';
-import IconFontPlugin from './plugins/iconFontPlugin';
 
-import {createCore} from '@/views/Editor/core'
+// Vercel Analytics
+inject();
 const core = createCore()
-import { myPlugin } from '@/views/testPlugin'
 core.use(myPlugin)
 const app = createApp(App)
 app.use(pinia)
