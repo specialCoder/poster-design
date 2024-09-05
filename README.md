@@ -150,3 +150,9 @@ pnpm build
 ## 开源协议
 
 - poster-design 遵循 [MIT 协议](./LICENSE)
+
+## RoadMap
+1. data 迁移到数据库进行数据管理
+2. 模版数据懒加载
+3. 数据补充一下国庆节的
+4. 小红书尺寸：https://www.canva.cn/sizes/little-red-book/
